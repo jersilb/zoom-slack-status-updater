@@ -5,18 +5,18 @@ module.exports = [
    */
   {
     // this name can be anything and is only for you, it is not used in the app
-    name: 'Gateway Staff Slack',
+    name: 'name of slack workspace',
     /**
      * this is the email address of your zoom user
      * events are filtered and slack updates are only done for this user
      * remove, if filtering is not intended
      */
-    email: 'jeremy.silbernagel@gatewaystaff.com',
+    email: 'email addfress here',
     /**
      * either copy & paste the token string here or use
      * process.env.SLACK_TOKEN_1 (now secret add SLACK_TOKEN_1 "xoxp-xxx-xxx")
      */
-    token: 'xoxp-3198132097-53439930118-1437987511010-8d6c4f349aacee9e7e7143f84ba40fc5',
+    token: 'xoxp-xxxxxxxxxxxx',
     /**
      * Zoom Verification Token
      *
@@ -25,7 +25,7 @@ module.exports = [
      *
      * @see https://marketplace.zoom.us/docs/api-reference/webhook-reference#headers
      */
-    zoomVerificationToken: 'VqZthXxlSfadilUwNrtDZQ',
+    zoomVerificationToken: 'xxxxxxxxxxxxxxx',
     /**
      * Slack DnD Status
      *
