@@ -1,8 +1,8 @@
 {
   "version": 2,
   "env": {
-    "SLACK_TOKEN_1": "xoxp-3198132097-53439930118-1437987511010-8d6c4f349aacee9e7e7143f84ba40fc5",
-    "VERIFICATION_TOKEN_1": "VqZthXxlSfadilUwNrtDZQ"
+    "SLACK_TOKEN_1": "xoxp-xxx-xxxx",
+    "VERIFICATION_TOKEN_1": "xxxxxxxxxxxxxxx"
   },
   "builds": [{ "src": "/src/index.js", "use": "@now/node-server" }],
   "routes": [
